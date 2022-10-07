@@ -1,0 +1,10 @@
+{
+	"full_name": "Servers in RoControl",
+	"description": "\"What do all of these channels mean?\"",
+	"emoji": "🗃️",
+	"order": 2,
+	"author": {
+		"name": "clustergrowling",
+		"icon": "https://github.com/nbitzz/rocontrol/blob/dev/assets/avatars/clustergrowling.png?raw=true"
+	}
+}
