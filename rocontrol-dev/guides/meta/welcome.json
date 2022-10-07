@@ -1,0 +1,10 @@
+{
+    "full_name":"Welcome to RoControl",
+    "description":"Basic information on how to use RoControl",
+    "emoji":"👋",
+    "order":1,
+    "author": {
+        "name":"stringsub",
+        "icon":"https://github.com/nbitzz/rocontrol/blob/dev/assets/avatars/split.gif?raw=true"
+    }
+}

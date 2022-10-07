@@ -1,0 +1,35 @@
+{
+  "name": "rocontrol",
+  "version": "v1.1.0",
+  "description": "A simple Discord bot that connects to a Roblox game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server_out/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbitzz/rocontrol.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbitzz/rocontrol/issues"
+  },
+  "homepage": "https://github.com/nbitzz/rocontrol#readme",
+  "dependencies": {
+    "@types/jimp": "^0.2.28",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "discord.js": "^13.7.0",
+    "express": "^4.18.1",
+    "gl": "^5.0.3",
+    "jimp": "^0.16.1",
+    "three": "^0.143.0",
+    "typescript": "^4.7.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
